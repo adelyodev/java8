@@ -17,7 +17,7 @@ public class main {
 		Integer n =4;
 		Function<Integer,Integer> modulo = (Integer a)-> a%n; 
 		assert modulo.apply(8) == 2;
-		
+		// fix commit 2
 
 	}
 
